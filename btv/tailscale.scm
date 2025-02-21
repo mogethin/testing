@@ -107,7 +107,7 @@
                 (uri (go-git-reference
                       (url "https://github.com/tailscale/tailscale")
                       (commit "v1.76.0")
-                      (sha (base32 "0ncck013rzbrzcbpya1fq41jrgzxw22pps77l9kb7kx06as8bggb"))))
+                      (sha (base32 "0z6pzmr36iasgd7znsjv61rrcsaijc3bdhl8bmz9yd7bx9kjn9bw"))))
                 (sha256
                  (base32
                   "19sv3q0hgb1h5v75c8hrkna4xgbgrs0ym2kvq16rbn9kr0hjjr1j"))))
