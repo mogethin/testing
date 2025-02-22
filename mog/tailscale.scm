@@ -1,4 +1,4 @@
-(define-module (btv tailscale)
+(define-module (mog tailscale)
   #:use-module ((guix licenses) #:prefix license:)
   #:use-module (guix utils)
   #:use-module (guix gexp)
