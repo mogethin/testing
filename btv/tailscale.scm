@@ -110,7 +110,7 @@
                       (sha (base32 "0n4431472jwl1kqx5ncig06gkxnda6nih1isal2a3rr1z8apdgn1"))))
                 (sha256
                  (base32
-                  "18cwnhm3bgsy6jmnd56pwaq8fi6cikwcn4xpkg7caknv4qx471zy"))))
+                  "19qll5ry90bz3wxwgm8wkm05vzmsf3srl0y3whgf2xg4d0kngaba"))))
       (build-system go-build-system)
       (arguments
        `(#:import-path "tailscale.com/cmd/tailscale"
